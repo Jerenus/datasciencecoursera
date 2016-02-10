@@ -1,2 +1,2 @@
 # datasciencecoursera
-data science project in coursera
+Data science project in coursera
